@@ -1,0 +1,2 @@
+DROP SCHEMA IF EXISTS hit_list;
+CREATE SCHEMA hit_list;
